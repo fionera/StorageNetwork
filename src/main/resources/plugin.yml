@@ -1,0 +1,12 @@
+name: StorageNetwork
+version: ${project.version}
+main: de.fionera.storagenetwork.StorageNetwork
+api-version: 1.13
+prefix: StorageNetwork
+authors: [Fionera]
+depend:
+  - LogisticsApi
+description: A Storage system like Applied Energistics
+commands:
+  sn:
+    usage: Bla
